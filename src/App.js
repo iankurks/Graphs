@@ -24,7 +24,7 @@ function App() {
         { name: 'Dec', x: 21, y: 30 }
     ]
    
-//  In this we will bar charts with background , without background and horizontal bar chart 
+//  In this we will bar charts with background , Stack Bar chart and horizontal bar chart with background
   return (
     <div>
         {/* Simple Bar Chart  */}
