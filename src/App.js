@@ -1,8 +1,8 @@
 import "./App.css";
 
-import HorizontalBarChart from "./HorizontalBarChart";
-import SimpleBarChart from "./SimpleBarChart";
-import StackBar from "./StackBar";
+import HorizontalBarChart from "./components/HorizontalBarChart";
+import SimpleBarChart from "./components/SimpleBarChart";
+import StackBar from "./components/StackBar";
 function App() {
     const data = [
         { value: 10, unit: 'tonnes', label: 'Regional Average:', color: '#56CFE1' },
