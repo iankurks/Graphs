@@ -1,0 +1,25 @@
+
+.horibar-single-text{
+    width: 25%;
+    padding-right: 3%;
+}
+.horibar-single-graph{
+    /* animation-name: example; */
+    animation-duration: 1s;
+}
+.horibar-wrapper{
+    padding: 30px 30px 30px 10px;
+}
+.bgLineWrapper{
+    display: flex;
+    margin-left: 25%;
+    margin-top: -230px;;
+    justify-content: space-between;
+}
+.bgSingleLineWrapper{
+    display: flex; flex-direction: column;
+    width: 1px;
+}
+.bgLine{
+    height: 250px; background: #64748B;
+}
